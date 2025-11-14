@@ -1,5 +1,6 @@
-![](https://github-readme-stats.vercel.app/api?username=blaze34536&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blaze34536&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+</div>
 
 
 ## 🌐 Socials:
