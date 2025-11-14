@@ -1,6 +1,7 @@
 <div align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blaze34536&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 </div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nihal-mohapatro-696b11305/) 
 
